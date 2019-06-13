@@ -48,7 +48,7 @@ These excel files should contain the following columns, which should be edited i
 
 ### Output file(s)
 
-This project will write a large number of Excel files, all of which are written to "C:/Users/NCAGLIUSO/Desktop/Slashline/Backlogs. All of the slashlines should be placed onto a sheet, with an additional slashline of just the NINV Buyer Team created in excel with counts from the full Buyer slashline. Three other sheets compile the workbook (`Slashline Report ddmmyy.xlsx`): Total data (all "In," "Out," and "Overlap"), Buyer Data ("Overlap" of the two specific Buyers) and PPAPAGNO data (explained below)
+This project will write a large number of Excel files, all of which are written to "C:/Users/NCAGLIUSO/Desktop/Slashline/Backlogs". All of the slashlines should be placed onto a sheet, with an additional slashline of just the NINV Buyer Team created in excel with counts from the full Buyer slashline. Three other sheets compile the workbook (`Slashline Report ddmmyy.xlsx`): Total data (all "In," "Out," and "Overlap"), Buyer Data ("Overlap" of the two specific Buyers) and PPAPAGNO data (explained below)
 
 ## Second Script: Individual Approver
 
